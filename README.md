@@ -1,2 +1,2 @@
 # github
-A demo repository to understand the basic overflow of git.
+A demo repository to understand the basic workflow of git.
